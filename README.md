@@ -45,8 +45,6 @@ Atualmente desenvolvo habilidades práticas em análise de dados, modelagem e vi
 ### 🤖 Outros Conhecimentos
 ![Inteligência Artificial](https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=openai&logoColor=white)
 
-<br/>
-
 ---
 
 ## 📌 Detalhes Que Você Precisa Saber
