@@ -7,8 +7,6 @@
 Tenho como objetivo transformar dados em informações estratégicas que apoiem a tomada de decisão e gerem valor para o negócio.
 Atualmente desenvolvo habilidades práticas em análise de dados, modelagem e visualização, utilizando ferramentas do mercado.*
 
-<br/>
-
 ---
 
 ## 🌐 Conecte-se comigo
