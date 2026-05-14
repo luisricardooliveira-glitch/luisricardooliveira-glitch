@@ -20,7 +20,7 @@ Atualmente desenvolvo habilidades práticas em análise de dados, modelagem e vi
   <a href="https://wa.me/5551993274728">
     <img src="https://img.shields.io/badge/WhatsApp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/luis_ricardo22s/">
+  <a href="https://www.instagram.com/operacionalaoanalista/">
     <img src="https://img.shields.io/badge/Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
