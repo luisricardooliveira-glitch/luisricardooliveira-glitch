@@ -90,14 +90,6 @@ Estou aberto a colaborar em projetos de:
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=luisricardooliveira-glitch&show_icons=true&theme=dark"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisricardooliveira-glitch&layout=compact&theme=dark&custom_title=Tecnologias&langs_count=6"/>
-</p>
-
----
 ## 💡 Objetivo
 
 Atuar como Analista de Dados, contribuindo com análise, visualização e interpretação de dados para geração de valor estratégico.
