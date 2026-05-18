@@ -1,11 +1,16 @@
+
 # 👋 Olá, eu sou Luis Ricardo Oliveira  
-### 📊 Analista de Dados em formação | Business Intelligence  
+### 📊 Business Intelligence | Analytics Operacional | Indicadores de Performance
 ---
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right">
 
-*Sou estudante de Administração em transição para a área de Análise de Dados, com foco em Business Intelligence.  
-Tenho como objetivo transformar dados em informações estratégicas que apoiem a tomada de decisão e gerem valor para o negócio.
-Atualmente desenvolvo habilidades práticas em análise de dados, modelagem e visualização, utilizando ferramentas do mercado.*
+ Profissional em transição para a área de Business Intelligence, com foco em análise operacional, indicadores de performance e dashboards executivos.
+
+Atualmente desenvolvo projetos utilizando Power BI, SQL, Excel e modelagem de dados, aplicando conceitos de análise operacional, KPIs estratégicos e visualização de dados para apoio à tomada de decisão.
+
+Tenho interesse em transformar dados em insights acionáveis, contribuindo para eficiência operacional, acompanhamento de performance e geração de valor para o negócio.
+
+<br/>
 
 ---
 
@@ -20,7 +25,7 @@ Atualmente desenvolvo habilidades práticas em análise de dados, modelagem e vi
   <a href="https://wa.me/5551993274728">
     <img src="https://img.shields.io/badge/WhatsApp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/operacionalaoanalista/">
+  <a href="https://www.instagram.com/luis_ricardo22s/">
     <img src="https://img.shields.io/badge/Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
@@ -43,53 +48,106 @@ Atualmente desenvolvo habilidades práticas em análise de dados, modelagem e vi
 ### 🤖 Outros Conhecimentos
 ![Inteligência Artificial](https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=openai&logoColor=white)
 
----
-
-## 📌 Detalhes Que Você Precisa Saber
-
-Sou um profissional em transição de carreira com base em Administração e foco em análise de dados e Business Intelligence.
-
-Tenho desenvolvido habilidades em:
-- Análise exploratória de dados  
-- Tratamento e organização de dados  
-- Criação de dashboards interativos  
-- Geração de insights para tomada de decisão  
-
-Busco minha primeira oportunidade como Analista de Dados, onde eu possa aplicar meus conhecimentos e continuar evoluindo tecnicamente.
 <br/>
 
----
+___
 
-## 🚀 Atualmente estudando
+## 📌 Diferenciais
 
-- Power BI (Dashboards e DAX)  
-- Excel Avançado  
-- Python para análise de dados  
-- Power Query e Power Automate
-<br/>
----
-
-## 📂 Projetos em Destaque
-
-🚧 Em desenvolvimento 🚧  
-
-- 📊 Dashboard de Vendas (Power BI)  
-- 🗄️ Análise de Dados com SQL  
-- 📈 Relatórios estratégicos com Excel  
-<br/>
+✔️ Análise operacional orientada a dados  
+✔️ Criação de dashboards executivos  
+✔️ Indicadores de performance (KPIs)  
+✔️ Modelagem de dados (Star Schema)  
+✔️ Power Query e tratamento de dados  
+✔️ Visualização estratégica de informações  
+✔️ Apoio à tomada de decisão baseada em dados  
 
 ---
 
-## 🤝 Colaboração
+# 🚀 Atualmente estudando
 
-Estou aberto a colaborar em projetos de:
-- Análise de Dados  
+- Power BI (DAX e Dashboards Executivos)  
+- SQL para análise de dados  
+- Python para análise e automação  
+- Power Query e ETL  
+- Modelagem dimensional e KPIs  
+
+---
+
+#  📂 Projetos em Destaque 
+
+###  📊 Dashboard de Controle de Perdas Operacionais ###
+Projeto desenvolvido com foco na análise de perdas operacionais e controle de estoque, contribuindo para redução aproximada de 40% em prejuízos operacionais relacionados a bebidas.
+
+### Principais análises:
+
+- Controle de perdas  
+- Indicadores operacionais  
+- Análise de estoque  
+- Monitoramento de consumo  
+- Eficiência operacional  
+### Recursos utilizados:
+- Power BI  
+- DAX  
+- Power Query   
+- Modelagem Star Schema  
+- KPIs operacionais   
+- Dashboard executivo  
+
+### Objetivo do projeto:  
+Identificar padrões de perdas, monitorar indicadores críticos e apoiar tomadas de decisão voltadas à redução de desperdícios e melhoria operaciona.
+
+## 📊 Dashboard de Performance Operacional
+
+Projeto desenvolvido em Power BI com foco em:
+
+- Eficiência operacional  
+- Indicadores de performance  
+- KPIs executivos  
+- Análise operacional  
+- Visualização estratégica de dados  
+
+### 🔧 Recursos utilizados
+
+- Modelagem Star Schema  
+- ETL com Power Query  
+- DAX  
+- Dashboard executivo  
+- KPIs operacionais  
+
+### 🛠️ Ferramentas
+
+- Power BI  
+- Excel  
+- DAX  
+- Power Query  
+
+---
+
+## 🗄️ Análise de Dados com SQL
+
+Projeto voltado à exploração, organização e análise de dados utilizando consultas SQL aplicadas a cenários de negócio.
+
+---
+
+## 📈 Relatórios Estratégicos com Excel
+
+Criação de relatórios analíticos e acompanhamento de indicadores utilizando Excel avançado.
+
+---
+
+# 🤝 Colaboração
+
+Aberto a colaborar em projetos relacionados a:
+
 - Business Intelligence  
-- Dashboards e Visualização  
-<br/>
+- Análise de Dados  
+- Dashboards Executivos  
+- Indicadores de Performance  
+- Visualização de Dados  
 
 ---
 
-## 💡 Objetivo
+# 💡 Objetivo
 
-Atuar como Analista de Dados, contribuindo com análise, visualização e interpretação de dados para geração de valor estratégico.
+Atuar com Business Intelligence e Analytics Operacional, utilizando dados para monitoramento de indicadores, eficiência operacional e apoio estratégico à tomada de decisão.
