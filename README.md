@@ -98,7 +98,7 @@ O projeto demonstrou como a análise estruturada dos dados pode orientar ações
 
 ## 📚 Formação e estudos atuais
 
-- Power BI — aproximadamente 75% concluído; faltam principalmente estudo de caso e simulado final
+- Power BI — concluído
 - SQL Server aplicado à análise de dados — concluído
 - Introdução à Análise de Dados — concluído
 - Excel e Power Query aplicados à análise
