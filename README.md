@@ -2,6 +2,8 @@
 
 ### 📊 Business Intelligence | Análise de Dados | Analytics Operacional
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right">
+
 Profissional em transição para a área de **Business Intelligence e Análise de Dados**, com experiência prática em operações, controle de estoque, indicadores de desempenho e apoio à tomada de decisão.
 
 Atualmente desenvolvo projetos utilizando **Power BI, SQL, Excel, Power Query e modelagem de dados**, transformando problemas operacionais em análises, indicadores e dashboards orientados ao negócio.
