@@ -53,7 +53,15 @@ Meu principal diferencial é unir a visão do **processo operacional** ao pensam
 
 ---
 
-## 📂 Projeto em destaque
+## 📂 Projetos em destaque
+
+### 🗄️ SQL para Análise de Dados
+
+Portfólio público de consultas em SQL Server, com exercícios documentados de filtros, ordenação, `INNER JOIN`, `LEFT JOIN`, agregações, subconsultas, CTEs e funções de janela.
+
+O projeto também inclui consultas aplicadas ao banco **AdventureWorks**, relacionando pedidos de compra e produtos para analisar quantidades, valores e recebimentos.
+
+[🔎 Acessar o repositório SQL](https://github.com/luisricardooliveira-glitch/sql-para-analise-de-dados)
 
 ### 📊 Dashboard de Controle de Perdas Operacionais
 
@@ -109,9 +117,9 @@ O projeto demonstrou como a análise estruturada dos dados pode orientar ações
 
 ## 🚀 Próximos passos
 
-- Concluir a formação de Power BI
-- Documentar consultas SQL aplicadas a problemas de negócio
-- Expandir o portfólio com projetos completos e verificáveis
+- Aprofundar medidas DAX e modelagem no Power BI
+- Expandir o portfólio SQL com análises de vendas e estoque
+- Documentar novos projetos completos e verificáveis
 - Avançar em Python e Estatística para análise de dados
 
 ---
